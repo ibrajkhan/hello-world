@@ -2,4 +2,5 @@
 
 i khaow html css js python .
 Framework i know is 
-bootstrap django react
+bootstrap django react basic.
+hi
